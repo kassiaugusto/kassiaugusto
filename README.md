@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Kassi Augusto 😁
+## Bem-vindo(a) ao perfil da Augusto 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,10 +8,7 @@
  
  <br>
  
-  ###me segue nas redes abaixo!
- 
 <div> 
-  <a href="https://instagram.com/kws_sii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
